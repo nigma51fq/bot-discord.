@@ -1,0 +1,35 @@
+{
+  "users": {
+    "955151258145144852": {
+      "streak": 0,
+      "lastSessionDate": null,
+      "totalFocusMinutes": 0,
+      "badges": [],
+      "sessions": 0
+    }
+  },
+  "sessions": {
+    "pomodoro_1794135315498_9zbzrhmip": {
+      "id": "pomodoro_1794135315498_9zbzrhmip",
+      "guildId": "1340758749136027729",
+      "channelId": "1352996234788470834",
+      "creatorId": "955151258145144852",
+      "members": [
+        "955151258145144852"
+      ],
+      "status": "waiting",
+      "currentPhase": null,
+      "phaseStartTime": null,
+      "focusDuration": 30,
+      "breakDuration": 10,
+      "totalFocusMinutes": 0,
+      "createdAt": 1794135315498
+    }
+  },
+  "settings": {
+    "focusMinutes": 25,
+    "breakMinutes": 5,
+    "focusRoleName": "🍅 Focused",
+    "notificationChannelId": null
+  }
+}
